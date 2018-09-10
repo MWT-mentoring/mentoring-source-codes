@@ -7,7 +7,7 @@ BOJ ID : #15588
 
 Author : TAMREF
 Time Complexity : O(N)
-Space Complexity : O(N) (It can be optimized into O(K), how can it possible?)
+Space Complexity : O(N) (It can be optimized to O(K), how can it be achieved?)
 
 */
 
